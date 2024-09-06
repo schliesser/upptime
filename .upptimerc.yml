@@ -18,7 +18,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.schliesser.dev
   # baseUrl: /your-repo-name
-  logoUrl: /assets/ds-logo.svg
+  logoUrl: https://raw.githubusercontent.com/schliesser/upptime/master/assets/ds-logo.svg
   name: "schliesser.dev status"
   introTitle: "schliesser.dev status page"
   introMessage: "This is a status page for schliesser.dev projects."

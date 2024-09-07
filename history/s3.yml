@@ -1,7 +1,7 @@
 url: $S3_URL
-status: down
-code: 502
-responseTime: 1444
-lastUpdated: 2024-09-07T19:21:37.392Z
+status: up
+code: 200
+responseTime: 1130
+lastUpdated: 2024-09-07T19:32:46.848Z
 startTime: 2024-09-07T03:53:25.956Z
 generator: Upptime <https://github.com/upptime/upptime>

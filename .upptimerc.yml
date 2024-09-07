@@ -4,10 +4,13 @@ repo: upptime
 sites:
   - name: EC-Balzheim
     url: https://www.ec-balzheim.de
+    icon: https://status.schliesser.dev/ec-balzheim.png
   - name: Highlanders
     url: https://highlanders.club
+    icon: https://status.schliesser.dev/highlanders.png
   - name: VertexDezign
     url: https://vertexdezign.net
+    icon: https://status.schliesser.dev/vertexdezign.png
   - name: Nextcloud
     url: $NEXTCLOUD_URL
     icon: https://status.schliesser.dev/nextcloud.png
@@ -21,8 +24,9 @@ assignees:
 status-website:
   cname: status.schliesser.dev
   robotsText: "User-agent: * \n Disallow: /"
-  name: "schliesser.dev status"
-  introTitle: "Uptime monitor"
+  logoUrl: https://status.schliesser.dev/upptime-icon.svg
+  name: "Upptime"
+  introTitle: "schliesser.dev Uptime Monitor"
   introMessage: "This is a status page for schliesser.dev projects."
   theme: night
   navbar:

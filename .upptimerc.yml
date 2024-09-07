@@ -9,6 +9,10 @@ sites:
     url: https://highlanders.club
   - name: VertexDezign
     url: https://vertexdezign.net
+  - name: Nextcloud
+    url: $NEXTCLOUD_URL
+  - name: S3
+    url: $S3_URL
 
 assignees:
   - schliesser

@@ -22,19 +22,19 @@
     "url": "https://highlanders.club",
     "icon": "https://status.schliesser.dev/highlanders.png",
     "slug": "highlanders",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 833,
-    "timeDay": 841,
-    "timeWeek": 833,
-    "timeMonth": 833,
-    "timeYear": 833,
+    "status": "up",
+    "uptime": "99.11%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "99.11%",
+    "uptimeYear": "99.11%",
+    "time": 805,
+    "timeDay": 755,
+    "timeWeek": 805,
+    "timeMonth": 805,
+    "timeYear": 805,
     "dailyMinutesDown": {
-      "2024-09-08": 1
+      "2024-09-08": 20
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://vertexdezign.net",
     "icon": "https://status.schliesser.dev/vertexdezign.png",
     "slug": "vertex-dezign",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1162,
-    "timeDay": 998,
-    "timeWeek": 1162,
-    "timeMonth": 1162,
-    "timeYear": 1162,
+    "status": "up",
+    "uptime": "99.13%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.13%",
+    "uptimeYear": "99.13%",
+    "time": 1116,
+    "timeDay": 902,
+    "timeWeek": 1116,
+    "timeMonth": 1116,
+    "timeYear": 1116,
     "dailyMinutesDown": {
-      "2024-09-08": 0
+      "2024-09-08": 20
     }
   },
   {

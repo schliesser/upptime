@@ -5,14 +5,14 @@
     "icon": "https://status.schliesser.dev/ec-balzheim.png",
     "slug": "ec-balzheim",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "98.94%",
     "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 914,
-    "timeDay": 741,
-    "timeWeek": 856,
+    "timeDay": 800,
+    "timeWeek": 873,
     "timeMonth": 914,
     "timeYear": 914,
     "dailyMinutesDown": {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
-    "time": 798,
-    "timeDay": 840,
-    "timeWeek": 826,
-    "timeMonth": 798,
-    "timeYear": 798,
+    "time": 785,
+    "timeDay": 518,
+    "timeWeek": 816,
+    "timeMonth": 785,
+    "timeYear": 785,
     "dailyMinutesDown": {
       "2024-09-08": 20
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
-    "time": 1127,
-    "timeDay": 1278,
-    "timeWeek": 1214,
-    "timeMonth": 1127,
-    "timeYear": 1127,
+    "time": 1121,
+    "timeDay": 994,
+    "timeWeek": 1232,
+    "timeMonth": 1121,
+    "timeYear": 1121,
     "dailyMinutesDown": {
       "2024-09-08": 20
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1373,
-    "timeDay": 1169,
-    "timeWeek": 1449,
-    "timeMonth": 1373,
-    "timeYear": 1373,
+    "time": 1377,
+    "timeDay": 1416,
+    "timeWeek": 1487,
+    "timeMonth": 1377,
+    "timeYear": 1377,
     "dailyMinutesDown": {}
   },
   {
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1224,
-    "timeDay": 1109,
-    "timeWeek": 1271,
-    "timeMonth": 1224,
-    "timeYear": 1224,
+    "time": 1212,
+    "timeDay": 1081,
+    "timeWeek": 1261,
+    "timeMonth": 1212,
+    "timeYear": 1212,
     "dailyMinutesDown": {}
   }
 ]

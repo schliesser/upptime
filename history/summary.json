@@ -5,18 +5,17 @@
     "icon": "https://status.schliesser.dev/ec-balzheim.png",
     "slug": "ec-balzheim",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 895,
-    "timeDay": 838,
-    "timeWeek": 829,
-    "timeMonth": 895,
-    "timeYear": 895,
+    "uptime": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 922,
+    "timeDay": 1151,
+    "timeWeek": 866,
+    "timeMonth": 922,
+    "timeYear": 922,
     "dailyMinutesDown": {
-      "2024-09-19": 7,
       "2024-09-16": 15
     }
   },
@@ -31,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 776,
-    "timeDay": 545,
-    "timeWeek": 722,
-    "timeMonth": 776,
-    "timeYear": 776,
+    "time": 779,
+    "timeDay": 837,
+    "timeWeek": 715,
+    "timeMonth": 779,
+    "timeYear": 779,
     "dailyMinutesDown": {
       "2024-09-08": 20
     }
@@ -51,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 1092,
-    "timeDay": 635,
-    "timeWeek": 1087,
-    "timeMonth": 1092,
-    "timeYear": 1092,
+    "time": 1130,
+    "timeDay": 2007,
+    "timeWeek": 1066,
+    "timeMonth": 1130,
+    "timeYear": 1130,
     "dailyMinutesDown": {
       "2024-09-08": 20
     }
@@ -71,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1383,
-    "timeDay": 1268,
-    "timeWeek": 1341,
-    "timeMonth": 1383,
-    "timeYear": 1383,
+    "time": 1423,
+    "timeDay": 2062,
+    "timeWeek": 1400,
+    "timeMonth": 1423,
+    "timeYear": 1423,
     "dailyMinutesDown": {}
   },
   {
@@ -89,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1216,
-    "timeDay": 859,
+    "time": 1246,
+    "timeDay": 1671,
     "timeWeek": 1217,
-    "timeMonth": 1216,
-    "timeYear": 1216,
+    "timeMonth": 1246,
+    "timeYear": 1246,
     "dailyMinutesDown": {}
   }
 ]

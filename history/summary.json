@@ -65,19 +65,19 @@
     "url": "$NEXTCLOUD_URL",
     "icon": "https://status.schliesser.dev/nextcloud.png",
     "slug": "nextcloud",
-    "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "97.06%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 1351,
-    "timeDay": 1004,
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "94.64%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
+    "time": 1348,
+    "timeDay": 1096,
     "timeWeek": 1285,
-    "timeMonth": 1351,
-    "timeYear": 1351,
+    "timeMonth": 1348,
+    "timeYear": 1348,
     "dailyMinutesDown": {
-      "2024-09-26": 42
+      "2024-09-26": 77
     }
   },
   {

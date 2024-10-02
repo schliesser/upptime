@@ -5,18 +5,18 @@
     "icon": "https://status.schliesser.dev/ec-balzheim.png",
     "slug": "ec-balzheim",
     "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "98.01%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 994,
-    "timeDay": 1150,
-    "timeWeek": 1201,
-    "timeMonth": 994,
-    "timeYear": 994,
+    "uptime": "99.87%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 998,
+    "timeDay": 1267,
+    "timeWeek": 1222,
+    "timeMonth": 998,
+    "timeYear": 998,
     "dailyMinutesDown": {
-      "2024-10-01": 28,
+      "2024-10-01": 16,
       "2024-09-25": 17,
       "2024-09-16": 15
     }
@@ -32,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 782,
-    "timeDay": 1009,
-    "timeWeek": 858,
-    "timeMonth": 782,
-    "timeYear": 782,
+    "time": 785,
+    "timeDay": 896,
+    "timeWeek": 896,
+    "timeMonth": 785,
+    "timeYear": 785,
     "dailyMinutesDown": {
       "2024-09-08": 20
     }
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 1148,
-    "timeDay": 736,
-    "timeWeek": 1161,
-    "timeMonth": 1148,
-    "timeYear": 1148,
+    "time": 1173,
+    "timeDay": 2051,
+    "timeWeek": 1296,
+    "timeMonth": 1173,
+    "timeYear": 1173,
     "dailyMinutesDown": {
       "2024-09-08": 20
     }
@@ -72,11 +72,11 @@
     "uptimeWeek": "99.23%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.78%",
-    "time": 1515,
-    "timeDay": 1252,
-    "timeWeek": 1814,
-    "timeMonth": 1515,
-    "timeYear": 1515,
+    "time": 1518,
+    "timeDay": 1619,
+    "timeWeek": 1850,
+    "timeMonth": 1518,
+    "timeYear": 1518,
     "dailyMinutesDown": {
       "2024-09-26": 77
     }
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1385,
-    "timeDay": 1226,
-    "timeWeek": 1831,
-    "timeMonth": 1385,
-    "timeYear": 1385,
+    "time": 1390,
+    "timeDay": 1498,
+    "timeWeek": 1881,
+    "timeMonth": 1390,
+    "timeYear": 1390,
     "dailyMinutesDown": {}
   }
 ]

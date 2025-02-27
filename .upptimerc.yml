@@ -17,6 +17,8 @@ sites:
   - name: MinIO
     url: $MINIO_URL
     icon: https://status.schliesser.dev/minio.png
+  - name: Surfcamp TYPO3 Team Success
+    url: https://success.surfcamp.schliesser.dev/
 
 assignees:
   - schliesser

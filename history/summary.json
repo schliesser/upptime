@@ -5,15 +5,15 @@
     "icon": "https://status.schliesser.dev/ec-balzheim.png",
     "slug": "ec-balzheim",
     "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "96.42%",
+    "uptime": "99.36%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.27%",
     "uptimeMonth": "99.78%",
-    "uptimeYear": "99.35%",
+    "uptimeYear": "99.36%",
     "time": 1343,
-    "timeDay": 1433,
+    "timeDay": 1287,
     "timeWeek": 1297,
-    "timeMonth": 1348,
+    "timeMonth": 1343,
     "timeYear": 1343,
     "dailyMinutesDown": {
       "2025-03-02": 74,
@@ -155,9 +155,9 @@
     "url": "https://success.surfcamp.schliesser.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/success.surfcamp.schliesser.dev.ico",
     "slug": "surfcamp-typo-3-team-success",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -166,6 +166,8 @@
     "timeWeek": 1897,
     "timeMonth": 1897,
     "timeYear": 1897,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-03": 0
+    }
   }
 ]

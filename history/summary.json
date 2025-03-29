@@ -5,11 +5,11 @@
     "icon": "https://status.schliesser.dev/ec-balzheim.png",
     "slug": "ec-balzheim",
     "status": "up",
-    "uptime": "99.42%",
+    "uptime": "99.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "99.42%",
+    "uptimeYear": "99.43%",
     "time": 1346,
     "timeDay": 1244,
     "timeWeek": 1352,
@@ -71,9 +71,9 @@
     "url": "https://highlanders.club",
     "icon": "https://status.schliesser.dev/highlanders.png",
     "slug": "highlanders",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -83,6 +83,7 @@
     "timeMonth": 855,
     "timeYear": 824,
     "dailyMinutesDown": {
+      "2025-03-29": 0,
       "2024-09-08": 20
     }
   },

@@ -6,9 +6,9 @@
     "slug": "ec-balzheim",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "97.56%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.49%",
     "time": 1361,
     "timeDay": 2383,
@@ -16,7 +16,7 @@
     "timeMonth": 1459,
     "timeYear": 1361,
     "dailyMinutesDown": {
-      "2025-05-25": 35,
+      "2025-05-25": 24,
       "2025-05-19": 20,
       "2025-05-17": 18,
       "2025-05-15": 23,
@@ -100,9 +100,9 @@
     "url": "https://vertexdezign.net",
     "icon": "https://status.schliesser.dev/vertexdezign.png",
     "slug": "vertex-dezign",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -112,6 +112,7 @@
     "timeMonth": 1270,
     "timeYear": 1266,
     "dailyMinutesDown": {
+      "2025-05-25": 0,
       "2024-09-08": 20
     }
   },

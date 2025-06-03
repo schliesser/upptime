@@ -10,11 +10,11 @@
     "uptimeWeek": "99.22%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.49%",
-    "time": 1362,
-    "timeDay": 1432,
-    "timeWeek": 1423,
-    "timeMonth": 1458,
-    "timeYear": 1362,
+    "time": 1361,
+    "timeDay": 1261,
+    "timeWeek": 1417,
+    "timeMonth": 1457,
+    "timeYear": 1361,
     "dailyMinutesDown": {
       "2025-06-02": 46,
       "2025-05-27": 32,
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 811,
-    "timeDay": 1019,
-    "timeWeek": 804,
+    "time": 810,
+    "timeDay": 626,
+    "timeWeek": 806,
     "timeMonth": 744,
-    "timeYear": 811,
+    "timeYear": 810,
     "dailyMinutesDown": {
       "2024-09-08": 20
     }
@@ -108,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1268,
-    "timeDay": 1378,
-    "timeWeek": 1256,
-    "timeMonth": 1266,
-    "timeYear": 1268,
+    "time": 1266,
+    "timeDay": 632,
+    "timeWeek": 1250,
+    "timeMonth": 1265,
+    "timeYear": 1266,
     "dailyMinutesDown": {
       "2024-09-08": 20
     }
@@ -129,8 +129,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
     "time": 1485,
-    "timeDay": 1614,
-    "timeWeek": 1482,
+    "timeDay": 1210,
+    "timeWeek": 1474,
     "timeMonth": 1473,
     "timeYear": 1485,
     "dailyMinutesDown": {
@@ -152,11 +152,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
-    "time": 1324,
-    "timeDay": 1572,
-    "timeWeek": 1314,
-    "timeMonth": 1237,
-    "timeYear": 1324,
+    "time": 1323,
+    "timeDay": 1079,
+    "timeWeek": 1321,
+    "timeMonth": 1238,
+    "timeYear": 1323,
     "dailyMinutesDown": {
       "2025-02-19": 17,
       "2025-02-18": 750,
@@ -174,11 +174,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1964,
-    "timeDay": 2157,
-    "timeWeek": 1994,
+    "time": 1963,
+    "timeDay": 1855,
+    "timeWeek": 1993,
     "timeMonth": 1958,
-    "timeYear": 1964,
+    "timeYear": 1963,
     "dailyMinutesDown": {
       "2025-03-03": 26
     }

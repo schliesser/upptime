@@ -104,9 +104,9 @@
     "url": "https://vertexdezign.net",
     "icon": "https://status.schliesser.dev/vertexdezign.png",
     "slug": "vertex-dezign",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -116,6 +116,7 @@
     "timeMonth": 1229,
     "timeYear": 1267,
     "dailyMinutesDown": {
+      "2025-06-05": 0,
       "2024-09-08": 20
     }
   },
@@ -172,9 +173,9 @@
     "slug": "surfcamp-typo-3-team-success",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1964,
     "timeDay": 2058,
@@ -182,7 +183,6 @@
     "timeMonth": 1961,
     "timeYear": 1964,
     "dailyMinutesDown": {
-      "2025-06-05": 7,
       "2025-03-03": 26
     }
   }

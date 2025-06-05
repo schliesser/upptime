@@ -4,9 +4,9 @@
     "url": "https://www.ec-balzheim.de",
     "icon": "https://status.schliesser.dev/ec-balzheim.png",
     "slug": "ec-balzheim",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "98.94%",
+    "uptimeDay": "98.92%",
     "uptimeWeek": "98.81%",
     "uptimeMonth": "99.46%",
     "uptimeYear": "99.48%",
@@ -16,6 +16,7 @@
     "timeMonth": 1442,
     "timeYear": 1362,
     "dailyMinutesDown": {
+      "2025-06-05": 0,
       "2025-06-04": 15,
       "2025-06-03": 59,
       "2025-06-02": 46,
@@ -106,9 +107,9 @@
     "slug": "vertex-dezign",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1264,
     "timeDay": 856,
@@ -116,7 +117,6 @@
     "timeMonth": 1211,
     "timeYear": 1264,
     "dailyMinutesDown": {
-      "2025-06-05": 11,
       "2024-09-08": 20
     }
   },

@@ -8,12 +8,12 @@
     "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.43%",
+    "uptimeMonth": "99.48%",
     "uptimeYear": "99.49%",
     "time": 1397,
     "timeDay": 1355,
     "timeWeek": 1645,
-    "timeMonth": 1614,
+    "timeMonth": 1609,
     "timeYear": 1397,
     "dailyMinutesDown": {
       "2025-07-27": 66,
@@ -183,9 +183,9 @@
     "url": "https://success.surfcamp.schliesser.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/success.surfcamp.schliesser.dev.ico",
     "slug": "surfcamp-typo-3-team-success",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -195,6 +195,7 @@
     "timeMonth": 2113,
     "timeYear": 2010,
     "dailyMinutesDown": {
+      "2025-08-17": 0,
       "2025-03-03": 26
     }
   }

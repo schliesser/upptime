@@ -97,9 +97,9 @@
     "url": "https://highlanders.club",
     "icon": "https://status.schliesser.dev/highlanders.png",
     "slug": "highlanders",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -109,6 +109,7 @@
     "timeMonth": 919,
     "timeYear": 820,
     "dailyMinutesDown": {
+      "2025-08-21": 0,
       "2024-09-08": 20
     }
   },

@@ -117,9 +117,9 @@
     "url": "https://vertexdezign.net",
     "icon": "https://status.schliesser.dev/vertexdezign.png",
     "slug": "vertex-dezign",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
@@ -129,6 +129,7 @@
     "timeMonth": 1508,
     "timeYear": 1299,
     "dailyMinutesDown": {
+      "2025-09-01": 0,
       "2025-08-17": 15,
       "2024-09-08": 20
     }

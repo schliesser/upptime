@@ -11,10 +11,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.52%",
     "time": 1405,
-    "timeDay": 1336,
-    "timeWeek": 1444,
-    "timeMonth": 1613,
-    "timeYear": 1409,
+    "timeDay": 1466,
+    "timeWeek": 1419,
+    "timeMonth": 1626,
+    "timeYear": 1412,
     "dailyMinutesDown": {
       "2025-08-29": 17,
       "2025-07-27": 66,
@@ -104,13 +104,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 820,
-    "timeDay": 606,
-    "timeWeek": 742,
-    "timeMonth": 845,
-    "timeYear": 819,
-    "dailyMinutesDown": {
-      "2024-09-08": 20
-    }
+    "timeDay": 862,
+    "timeWeek": 793,
+    "timeMonth": 857,
+    "timeYear": 820,
+    "dailyMinutesDown": {}
   },
   {
     "name": "VertexDezign",
@@ -123,15 +121,14 @@
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 1306,
-    "timeDay": 823,
-    "timeWeek": 1621,
-    "timeMonth": 1537,
-    "timeYear": 1307,
+    "time": 1308,
+    "timeDay": 1437,
+    "timeWeek": 1707,
+    "timeMonth": 1577,
+    "timeYear": 1312,
     "dailyMinutesDown": {
       "2025-09-01": 22,
-      "2025-08-17": 15,
-      "2024-09-08": 20
+      "2025-08-17": 15
     }
   },
   {
@@ -146,10 +143,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 1506,
-    "timeDay": 1433,
-    "timeWeek": 1481,
-    "timeMonth": 1575,
-    "timeYear": 1507,
+    "timeDay": 1581,
+    "timeWeek": 1503,
+    "timeMonth": 1592,
+    "timeYear": 1509,
     "dailyMinutesDown": {
       "2025-02-19": 18,
       "2025-02-18": 750,
@@ -169,11 +166,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 1336,
-    "timeDay": 1307,
-    "timeWeek": 1307,
-    "timeMonth": 1395,
-    "timeYear": 1336,
+    "time": 1337,
+    "timeDay": 1494,
+    "timeWeek": 1367,
+    "timeMonth": 1416,
+    "timeYear": 1339,
     "dailyMinutesDown": {
       "2025-02-19": 17,
       "2025-02-18": 750,
@@ -191,11 +188,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 2018,
-    "timeDay": 2067,
-    "timeWeek": 2037,
-    "timeMonth": 2074,
-    "timeYear": 2018,
+    "time": 2019,
+    "timeDay": 2200,
+    "timeWeek": 2092,
+    "timeMonth": 2089,
+    "timeYear": 2019,
     "dailyMinutesDown": {
       "2025-08-17": 23,
       "2025-03-03": 26

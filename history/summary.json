@@ -117,9 +117,9 @@
     "slug": "vertex-dezign",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 1310,
     "timeDay": 1707,
@@ -127,7 +127,6 @@
     "timeMonth": 1514,
     "timeYear": 1321,
     "dailyMinutesDown": {
-      "2025-09-19": 7,
       "2025-09-01": 22,
       "2025-08-17": 15
     }

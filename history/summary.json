@@ -4,18 +4,19 @@
     "url": "https://www.ec-balzheim.de",
     "icon": "https://status.schliesser.dev/ec-balzheim.png",
     "slug": "ec-balzheim",
-    "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.55%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.52%",
+    "uptimeYear": "99.53%",
     "time": 1406,
     "timeDay": 1450,
     "timeWeek": 1500,
     "timeMonth": 1479,
     "timeYear": 1431,
     "dailyMinutesDown": {
+      "2025-09-23": 0,
       "2025-08-29": 17,
       "2025-07-27": 66,
       "2025-07-26": 39,
@@ -89,7 +90,7 @@
       "2024-11-11": 37,
       "2024-11-05": 32,
       "2024-11-01": 16,
-      "2024-10-27": 36
+      "2024-10-27": 18
     }
   },
   {

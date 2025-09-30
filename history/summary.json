@@ -12,7 +12,7 @@
     "uptimeYear": "99.52%",
     "time": 1407,
     "timeDay": 1562,
-    "timeWeek": 1528,
+    "timeWeek": 1577,
     "timeMonth": 1473,
     "timeYear": 1435,
     "dailyMinutesDown": {
@@ -115,9 +115,9 @@
     "url": "https://vertexdezign.net",
     "icon": "https://status.schliesser.dev/vertexdezign.png",
     "slug": "vertex-dezign",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
@@ -127,6 +127,7 @@
     "timeMonth": 1497,
     "timeYear": 1328,
     "dailyMinutesDown": {
+      "2025-09-30": 0,
       "2025-09-01": 22,
       "2025-08-17": 15
     }

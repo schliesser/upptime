@@ -5,20 +5,32 @@ sites:
   - name: EC-Balzheim
     url: https://www.ec-balzheim.de
     icon: https://status.schliesser.dev/ec-balzheim.png
+    type: globalping
+    location: germany
   - name: Highlanders
     url: https://highlanders.club
     icon: https://status.schliesser.dev/highlanders.png
+    type: globalping
+    location: germany
   - name: VertexDezign
     url: https://vertexdezign.net
     icon: https://status.schliesser.dev/vertexdezign.png
+    type: globalping
+    location: germany
   - name: Nextcloud
     url: $NEXTCLOUD_URL
     icon: https://status.schliesser.dev/nextcloud.png
+    type: globalping
+    location: germany
   - name: MinIO
     url: $MINIO_URL
     icon: https://status.schliesser.dev/minio.png
+    type: globalping
+    location: germany
   - name: Surfcamp TYPO3 Team Success
     url: https://success.surfcamp.schliesser.dev/
+    type: globalping
+    location: germany
 
 assignees:
   - schliesser

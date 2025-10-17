@@ -31,6 +31,11 @@ sites:
     url: https://success.surfcamp.schliesser.dev/
     type: globalping
     location: germany
+  - name: Audiobookshelf
+    url: $AUDIOBOOKSHELF_URL
+    icon: https://status.schliesser.dev/audiobookshelf.png
+    type: globalping
+    location: germany
 
 assignees:
   - schliesser

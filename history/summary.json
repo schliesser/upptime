@@ -5,10 +5,10 @@
     "icon": "https://status.schliesser.dev/ec-balzheim.png",
     "slug": "ec-balzheim",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptime": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 1409,
     "timeDay": 843,
@@ -16,8 +16,6 @@
     "timeMonth": 803,
     "timeYear": 1418,
     "dailyMinutesDown": {
-      "2025-11-16": 0,
-      "2025-11-15": 7,
       "2025-07-27": 66,
       "2025-03-02": 74,
       "2025-01-16": 76,
@@ -34,19 +32,16 @@
     "slug": "highlanders",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 759,
     "timeDay": 81,
     "timeWeek": 76,
     "timeMonth": 89,
     "timeYear": 744,
-    "dailyMinutesDown": {
-      "2025-11-16": 0,
-      "2025-11-15": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "VertexDezign",
@@ -55,19 +50,16 @@
     "slug": "vertex-dezign",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1228,
     "timeDay": 1333,
     "timeWeek": 585,
     "timeMonth": 195,
     "timeYear": 1228,
-    "dailyMinutesDown": {
-      "2025-11-16": 0,
-      "2025-11-15": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Nextcloud",
@@ -76,9 +68,9 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 1420,
     "timeDay": 253,
@@ -86,8 +78,6 @@
     "timeMonth": 456,
     "timeYear": 1405,
     "dailyMinutesDown": {
-      "2025-11-16": 0,
-      "2025-11-15": 7,
       "2025-09-18": 84,
       "2025-02-18": 750
     }
@@ -99,9 +89,9 @@
     "slug": "min-io",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 1250,
     "timeDay": 1416,
@@ -109,8 +99,6 @@
     "timeMonth": 281,
     "timeYear": 1221,
     "dailyMinutesDown": {
-      "2025-11-16": 0,
-      "2025-11-15": 7,
       "2025-09-18": 84,
       "2025-02-18": 750
     }
@@ -122,19 +110,16 @@
     "slug": "surfcamp-typo-3-team-success",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1935,
     "timeDay": 1391,
     "timeWeek": 1429,
     "timeMonth": 1419,
     "timeYear": 1935,
-    "dailyMinutesDown": {
-      "2025-11-16": 1,
-      "2025-11-15": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Audiobookshelf",
@@ -142,19 +127,16 @@
     "icon": "https://status.schliesser.dev/audiobookshelf.png",
     "slug": "audiobookshelf",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 59,
     "timeDay": 77,
     "timeWeek": 68,
     "timeMonth": 59,
     "timeYear": 59,
-    "dailyMinutesDown": {
-      "2025-11-16": 1,
-      "2025-11-15": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]

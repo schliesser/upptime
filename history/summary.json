@@ -11,9 +11,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.91%",
     "time": 1405,
-    "timeDay": 619,
-    "timeWeek": 804,
-    "timeMonth": 909,
+    "timeDay": 624,
+    "timeWeek": 811,
+    "timeMonth": 902,
     "timeYear": 1402,
     "dailyMinutesDown": {
       "2025-11-16": 16,
@@ -22,8 +22,7 @@
       "2025-01-16": 76,
       "2025-01-15": 1,
       "2025-01-08": 89,
-      "2025-01-05": 82,
-      "2024-12-02": 78
+      "2025-01-05": 82
     }
   },
   {
@@ -37,11 +36,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 732,
-    "timeDay": 20,
-    "timeWeek": 51,
+    "time": 731,
+    "timeDay": 45,
+    "timeWeek": 47,
     "timeMonth": 94,
-    "timeYear": 708,
+    "timeYear": 707,
     "dailyMinutesDown": {
       "2025-11-16": 16
     }
@@ -57,11 +56,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 1203,
-    "timeDay": 50,
-    "timeWeek": 1508,
-    "timeMonth": 470,
-    "timeYear": 1200,
+    "time": 1201,
+    "timeDay": 32,
+    "timeWeek": 785,
+    "timeMonth": 469,
+    "timeYear": 1199,
     "dailyMinutesDown": {
       "2025-11-16": 16
     }
@@ -73,15 +72,15 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "95.01%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.02%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.82%",
-    "time": 1371,
-    "timeDay": 225,
-    "timeWeek": 196,
+    "time": 1368,
+    "timeDay": 214,
+    "timeWeek": 199,
     "timeMonth": 437,
-    "timeYear": 1345,
+    "timeYear": 1342,
     "dailyMinutesDown": {
       "2025-11-30": 99,
       "2025-11-16": 16,
@@ -100,11 +99,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.84%",
-    "time": 1225,
-    "timeDay": 142,
-    "timeWeek": 721,
-    "timeMonth": 521,
-    "timeYear": 1190,
+    "time": 1223,
+    "timeDay": 154,
+    "timeWeek": 713,
+    "timeMonth": 523,
+    "timeYear": 1188,
     "dailyMinutesDown": {
       "2025-11-16": 16,
       "2025-09-18": 84,
@@ -122,11 +121,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 1901,
-    "timeDay": 1529,
-    "timeWeek": 1413,
-    "timeMonth": 1420,
-    "timeYear": 1901,
+    "time": 1900,
+    "timeDay": 1371,
+    "timeWeek": 1414,
+    "timeMonth": 1418,
+    "timeYear": 1900,
     "dailyMinutesDown": {
       "2025-11-16": 16
     }
@@ -137,15 +136,15 @@
     "icon": "https://status.schliesser.dev/audiobookshelf.png",
     "slug": "audiobookshelf",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 62,
-    "timeDay": 55,
-    "timeWeek": 57,
-    "timeMonth": 69,
+    "timeDay": 23,
+    "timeWeek": 54,
+    "timeMonth": 68,
     "timeYear": 62,
     "dailyMinutesDown": {
       "2025-11-16": 16

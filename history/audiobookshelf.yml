@@ -1,7 +1,7 @@
 url: $AUDIOBOOKSHELF_URL
-status: up
-code: 200
-responseTime: 52
-lastUpdated: 2026-01-28T23:32:31.249Z
+status: down
+code: 403
+responseTime: 0
+lastUpdated: 2026-01-29T17:52:47.191Z
 startTime: 2025-10-17T08:41:19.667Z
 generator: Upptime <https://github.com/upptime/upptime>

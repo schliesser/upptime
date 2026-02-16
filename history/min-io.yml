@@ -1,7 +1,7 @@
 url: $MINIO_URL
 status: up
 code: 200
-responseTime: 92
-lastUpdated: 2026-02-15T23:33:51.602Z
+responseTime: 128
+lastUpdated: 2026-02-16T23:35:44.756Z
 startTime: 2024-09-07T20:04:43.941Z
 generator: Upptime <https://github.com/upptime/upptime>
